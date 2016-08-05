@@ -5,7 +5,7 @@ npm-install
 npm-install --save
 npm-install --save-dev
 
-###
+###<br/>
 Start the project. 
 Add your ts files to the app directory. 
 Kindly stick to the directory.
