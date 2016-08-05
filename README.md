@@ -1,9 +1,9 @@
-### Install dependencies
+### Install dependencies<br/>
 
-Once you've cloned the repository,
-npm-install
-npm-install --save
-npm-install --save-dev
+Once you've cloned the repository,<br/>
+npm-install<br/>
+npm-install --save<br/>
+npm-install --save-dev<br/>
 
 ###<br/>
 Start the project. 
