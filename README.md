@@ -1,6 +1,11 @@
+### Install dependencies
+
+Once you've cloned the repository,
 npm-install
 npm-install --save
 npm-install --save-dev
+
+###
 Start the project. 
 Add your ts files to the app directory. 
 Kindly stick to the directory.
